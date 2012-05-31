@@ -1,0 +1,20 @@
+done
+In order to save my thoughts as an user I want to input text.
+
+todo
+In order to save my work as an user I want to save my text.
+In order to work with my last text as an user I want load load my last edited text.
+In order to find the last edited text as an user I want to give a name for the text to save.
+In order to switch to a new text as an user I want to create a blank new text.
+In order to edit a different text as an user I want to choose from last saved texts.
+In order to improve the input as an user I want to show a cursor at current input position.
+In order to improve the text input as an user I want to move the cursor left and right.
+
+ideas
+- move cursor up and down
+- write text bold and normal
+- choose font size
+- choose text color
+- drawings overlay text
+- print text as pdf
+- export text to ...
